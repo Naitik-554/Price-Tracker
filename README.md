@@ -1,6 +1,6 @@
 # Price-Tracker
 
-**This is a Chrome extension that tracks the price of products on various ecommerce websites. The extension is built using Python, Selenium, and Beautiful Soup for web scraping.**
+**This is a Chrome extension that tracks the price of products on various E-Commerce websites. The extension is built using Python, Selenium, and Beautiful Soup for web scraping.**
 
 ## Features
 • The extension supports multiple e-commerce websites.
