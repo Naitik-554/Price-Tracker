@@ -3,9 +3,9 @@
 **This is a Chrome extension that tracks the price of products on various E-Commerce websites. The extension is built using Python, Selenium, and Beautiful Soup for web scraping.**
 
 ## Features
-• The extension supports multiple e-commerce websites.
-• The user interface is simple and easy to use.
-• User can give desired price for any product and when actual price of product reaches to desired price then user will get informed via email
+- The extension supports multiple e-commerce websites.
+- The user interface is simple and easy to use.
+- User can give desired price for any product and when actual price of product reaches to desired price then user will get informed via email
 
 ## Installation
 1. Clone the repository to your local machine.
